@@ -1,4 +1,5 @@
-# SQL everythingCombinedTogetherPlusShowingTables.sql is the file with everything in it:
+# SQL 
+everythingCombinedTogetherPlusShowingTables.sql is the file with everything in it:
 create.sql
 insert.sql
 queries.sql
